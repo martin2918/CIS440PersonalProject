@@ -29,5 +29,5 @@ and the widgets can be customized, everything in the website like header, footer
 background can be modified. Even though it was not easy to add media into the website,
 some web coding knowledge would solve the problem.
 
-![screenshot1](screenshot\1.JPG)
+![screenshot1](screenshot/1.JPG)
 
