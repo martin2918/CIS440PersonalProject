@@ -3,6 +3,8 @@ CIS440PersonalProject
 Hon Pan Wong
 CIS440 Personal Project
 
+Link to website: http://wp.me/36TUb
+
 Since my group used WordPress as the major tool to create a website for the company, 
 I have learned how to use WordPress in the project. In my project, I used some widgets
 /plug-ins to place the components on my website. The theme used in the website is Goran.
