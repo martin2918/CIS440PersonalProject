@@ -29,5 +29,14 @@ and the widgets can be customized, everything in the website like header, footer
 background can be modified. Even though it was not easy to add media into the website,
 some web coding knowledge would solve the problem.
 
+<h2><strong>Screenshots</strong></h2>
 ![screenshot1](screenshot/1.JPG)
+![screenshot2](screenshot/2.JPG)
+![screenshot3](screenshot/3.JPG)
+![screenshot4](screenshot/4.JPG)
+![screenshot5](screenshot/5.JPG)
+![screenshot6](screenshot/6.JPG)
+![screenshot7](screenshot/7.JPG)
+![screenshot8](screenshot/8.JPG)
+![screenshot9](screenshot/9.JPG)
 
